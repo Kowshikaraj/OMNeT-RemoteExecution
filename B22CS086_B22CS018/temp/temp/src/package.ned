@@ -1,0 +1,3 @@
+package temp;
+
+@license(LGPL);

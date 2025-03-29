@@ -1,0 +1,354 @@
+[1] [19:24:25] Client 0 generated array: 45 48 65 68 68 10 84 22 37 88 ... (total 99 elements)
+[1] [19:24:25] Client 0 subtask 0: 45 48 65 68 68 ... (total 33 elements)
+[1] [19:24:25] Client 0 subtask 1: 100 89 50 30 20 ... (total 33 elements)
+[1] [19:24:25] Client 0 subtask 2: 2 66 42 58 36 ... (total 33 elements)
+[1] [19:24:25] Client 0 starting task 1 with array size 99
+[1] [19:24:25] Client 0 randomly selecting servers for task 1
+[1] [19:24:25] Client 0 sent subtask 0 to servers: 0 3 4 
+[1] [19:24:25] Client 0 randomly selecting servers for task 1
+[1] [19:24:25] Client 0 sent subtask 1 to servers: 2 3 0 
+[1] [19:24:25] Client 0 randomly selecting servers for task 1
+[1] [19:24:25] Client 0 sent subtask 2 to servers: 3 2 4 
+[1] [19:24:27] Client 1 generated array: 49 50 70 42 36 65 96 70 95 1 ... (total 99 elements)
+[1] [19:24:27] Client 1 subtask 0: 49 50 70 42 36 ... (total 33 elements)
+[1] [19:24:27] Client 1 subtask 1: 83 47 100 21 82 ... (total 33 elements)
+[1] [19:24:27] Client 1 subtask 2: 95 99 14 41 73 ... (total 33 elements)
+[1] [19:24:27] Client 1 starting task 1 with array size 99
+[1] [19:24:27] Client 1 randomly selecting servers for task 1
+[1] [19:24:27] Client 1 sent subtask 0 to servers: 4 1 0 
+[1] [19:24:27] Client 1 randomly selecting servers for task 1
+[1] [19:24:27] Client 1 sent subtask 1 to servers: 1 4 3 
+[1] [19:24:27] Client 1 randomly selecting servers for task 1
+[1] [19:24:27] Client 1 sent subtask 2 to servers: 4 2 3 
+[1] [19:24:27] Client 2 generated array: 71 86 32 14 72 57 25 80 42 19 ... (total 99 elements)
+[1] [19:24:27] Client 2 subtask 0: 71 86 32 14 72 ... (total 33 elements)
+[1] [19:24:27] Client 2 subtask 1: 85 11 55 38 29 ... (total 33 elements)
+[1] [19:24:27] Client 2 subtask 2: 72 40 62 86 98 ... (total 33 elements)
+[1] [19:24:27] Client 2 starting task 1 with array size 99
+[1] [19:24:27] Client 2 randomly selecting servers for task 1
+[1] [19:24:27] Client 2 sent subtask 0 to servers: 3 1 2 
+[1] [19:24:27] Client 2 randomly selecting servers for task 1
+[1] [19:24:27] Client 2 sent subtask 1 to servers: 1 2 4 
+[1] [19:24:27] Client 2 randomly selecting servers for task 1
+[1] [19:24:27] Client 2 sent subtask 2 to servers: 1 3 0 
+TaskMessage: Server: 0 on gate: 0 taskId: 1 subtaskId: 0 data: 45 48 65 68 68 10 84 22 37 88 71 89 89 13 59 66 40 88 47 89 82 38 26 78 73 10 21 81 70 80 48 65 83 
+Result Server:0 taskId:1 subtaskId:0 on gate:0 result:89 isHonest:true
+TaskMessage: Server: 3 on gate: 0 taskId: 1 subtaskId: 0 data: 45 48 65 68 68 10 84 22 37 88 71 89 89 13 59 66 40 88 47 89 82 38 26 78 73 10 21 81 70 80 48 65 83 
+Result Server:3 taskId:1 subtaskId:0 on gate:0 result:89 isHonest:true
+TaskMessage: Server: 4 on gate: 0 taskId: 1 subtaskId: 0 data: 45 48 65 68 68 10 84 22 37 88 71 89 89 13 59 66 40 88 47 89 82 38 26 78 73 10 21 81 70 80 48 65 83 
+Result Server:4 taskId:1 subtaskId:0 on gate:0 result:89 isHonest:true
+TaskMessage: Server: 2 on gate: 0 taskId: 1 subtaskId: 1 data: 100 89 50 30 20 20 15 40 33 66 10 58 33 32 75 24 36 76 56 29 35 1 1 37 54 6 39 18 80 5 43 59 32 
+Result Server:2 taskId:1 subtaskId:1 on gate:0 result:100 isHonest:true
+TaskMessage: Server: 3 on gate: 0 taskId: 1 subtaskId: 1 data: 100 89 50 30 20 20 15 40 33 66 10 58 33 32 75 24 36 76 56 29 35 1 1 37 54 6 39 18 80 5 43 59 32 
+Result Server:3 taskId:1 subtaskId:1 on gate:0 result:100 isHonest:true
+TaskMessage: Server: 0 on gate: 0 taskId: 1 subtaskId: 1 data: 100 89 50 30 20 20 15 40 33 66 10 58 33 32 75 24 36 76 56 29 35 1 1 37 54 6 39 18 80 5 43 59 32 
+Result Server:0 taskId:1 subtaskId:1 on gate:0 result:100 isHonest:true
+TaskMessage: Server: 3 on gate: 0 taskId: 1 subtaskId: 2 data: 2 66 42 58 36 12 47 83 92 1 15 100 54 13 43 85 76 69 7 69 48 4 77 53 79 16 21 100 59 24 80 14 86 
+Result Server:3 taskId:1 subtaskId:2 on gate:0 result:100 isHonest:true
+TaskMessage: Server: 2 on gate: 0 taskId: 1 subtaskId: 2 data: 2 66 42 58 36 12 47 83 92 1 15 100 54 13 43 85 76 69 7 69 48 4 77 53 79 16 21 100 59 24 80 14 86 
+Result Server:2 taskId:1 subtaskId:2 on gate:0 result:100 isHonest:true
+TaskMessage: Server: 4 on gate: 0 taskId: 1 subtaskId: 2 data: 2 66 42 58 36 12 47 83 92 1 15 100 54 13 43 85 76 69 7 69 48 4 77 53 79 16 21 100 59 24 80 14 86 
+Result Server:4 taskId:1 subtaskId:2 on gate:0 result:100 isHonest:true
+TaskMessage: Server: 4 on gate: 1 taskId: 1 subtaskId: 0 data: 49 50 70 42 36 65 96 70 95 1 51 37 35 49 94 4 99 43 78 22 74 1 11 44 59 24 60 3 99 63 36 95 68 
+Result Server:4 taskId:1 subtaskId:0 on gate:1 result:97 isHonest:false
+TaskMessage: Server: 1 on gate: 1 taskId: 1 subtaskId: 0 data: 49 50 70 42 36 65 96 70 95 1 51 37 35 49 94 4 99 43 78 22 74 1 11 44 59 24 60 3 99 63 36 95 68 
+Result Server:1 taskId:1 subtaskId:0 on gate:1 result:99 isHonest:true
+TaskMessage: Server: 0 on gate: 1 taskId: 1 subtaskId: 0 data: 49 50 70 42 36 65 96 70 95 1 51 37 35 49 94 4 99 43 78 22 74 1 11 44 59 24 60 3 99 63 36 95 68 
+Result Server:0 taskId:1 subtaskId:0 on gate:1 result:99 isHonest:true
+TaskMessage: Server: 1 on gate: 1 taskId: 1 subtaskId: 1 data: 83 47 100 21 82 51 28 15 42 59 66 37 11 87 44 12 3 52 81 33 55 1 39 20 47 43 57 61 78 31 25 3 4 
+Result Server:1 taskId:1 subtaskId:1 on gate:1 result:100 isHonest:true
+TaskMessage: Server: 4 on gate: 1 taskId: 1 subtaskId: 1 data: 83 47 100 21 82 51 28 15 42 59 66 37 11 87 44 12 3 52 81 33 55 1 39 20 47 43 57 61 78 31 25 3 4 
+Result Server:4 taskId:1 subtaskId:1 on gate:1 result:98 isHonest:false
+TaskMessage: Server: 3 on gate: 1 taskId: 1 subtaskId: 1 data: 83 47 100 21 82 51 28 15 42 59 66 37 11 87 44 12 3 52 81 33 55 1 39 20 47 43 57 61 78 31 25 3 4 
+Result Server:3 taskId:1 subtaskId:1 on gate:1 result:100 isHonest:true
+TaskMessage: Server: 4 on gate: 1 taskId: 1 subtaskId: 2 data: 95 99 14 41 73 20 96 73 27 67 53 68 62 15 97 5 68 12 87 78 76 57 17 25 30 22 26 81 61 62 84 34 33 
+Result Server:4 taskId:1 subtaskId:2 on gate:1 result:96 isHonest:false
+TaskMessage: Server: 2 on gate: 1 taskId: 1 subtaskId: 2 data: 95 99 14 41 73 20 96 73 27 67 53 68 62 15 97 5 68 12 87 78 76 57 17 25 30 22 26 81 61 62 84 34 33 
+Result Server:2 taskId:1 subtaskId:2 on gate:1 result:99 isHonest:true
+TaskMessage: Server: 3 on gate: 1 taskId: 1 subtaskId: 2 data: 95 99 14 41 73 20 96 73 27 67 53 68 62 15 97 5 68 12 87 78 76 57 17 25 30 22 26 81 61 62 84 34 33 
+Result Server:3 taskId:1 subtaskId:2 on gate:1 result:99 isHonest:true
+TaskMessage: Server: 3 on gate: 2 taskId: 1 subtaskId: 0 data: 71 86 32 14 72 57 25 80 42 19 41 55 80 12 39 94 2 96 45 89 25 68 83 4 77 36 87 62 70 88 44 33 12 
+Result Server:3 taskId:1 subtaskId:0 on gate:2 result:96 isHonest:true
+TaskMessage: Server: 1 on gate: 2 taskId: 1 subtaskId: 0 data: 71 86 32 14 72 57 25 80 42 19 41 55 80 12 39 94 2 96 45 89 25 68 83 4 77 36 87 62 70 88 44 33 12 
+Result Server:1 taskId:1 subtaskId:0 on gate:2 result:94 isHonest:false
+TaskMessage: Server: 2 on gate: 2 taskId: 1 subtaskId: 0 data: 71 86 32 14 72 57 25 80 42 19 41 55 80 12 39 94 2 96 45 89 25 68 83 4 77 36 87 62 70 88 44 33 12 
+Result Server:2 taskId:1 subtaskId:0 on gate:2 result:96 isHonest:true
+TaskMessage: Server: 1 on gate: 2 taskId: 1 subtaskId: 1 data: 85 11 55 38 29 3 28 84 90 24 54 52 47 21 54 30 68 36 40 10 74 42 24 4 47 91 51 4 32 10 11 28 46 
+Result Server:1 taskId:1 subtaskId:1 on gate:2 result:86 isHonest:false
+TaskMessage: Server: 2 on gate: 2 taskId: 1 subtaskId: 1 data: 85 11 55 38 29 3 28 84 90 24 54 52 47 21 54 30 68 36 40 10 74 42 24 4 47 91 51 4 32 10 11 28 46 
+Result Server:2 taskId:1 subtaskId:1 on gate:2 result:91 isHonest:true
+TaskMessage: Server: 4 on gate: 2 taskId: 1 subtaskId: 1 data: 85 11 55 38 29 3 28 84 90 24 54 52 47 21 54 30 68 36 40 10 74 42 24 4 47 91 51 4 32 10 11 28 46 
+Result Server:4 taskId:1 subtaskId:1 on gate:2 result:91 isHonest:true
+TaskMessage: Server: 1 on gate: 2 taskId: 1 subtaskId: 2 data: 72 40 62 86 98 45 35 35 89 34 6 37 1 76 35 70 54 81 63 9 62 2 82 36 92 41 37 49 26 68 36 31 30 
+Result Server:1 taskId:1 subtaskId:2 on gate:2 result:95 isHonest:false
+TaskMessage: Server: 3 on gate: 2 taskId: 1 subtaskId: 2 data: 72 40 62 86 98 45 35 35 89 34 6 37 1 76 35 70 54 81 63 9 62 2 82 36 92 41 37 49 26 68 36 31 30 
+Result Server:3 taskId:1 subtaskId:2 on gate:2 result:98 isHonest:true
+TaskMessage: Server: 0 on gate: 2 taskId: 1 subtaskId: 2 data: 72 40 62 86 98 45 35 35 89 34 6 37 1 76 35 70 54 81 63 9 62 2 82 36 92 41 37 49 26 68 36 31 30 
+Result Server:0 taskId:1 subtaskId:2 on gate:2 result:98 isHonest:true
+[1] [19:24:38] Client 0 received result: 89 for subtask 0 from server 0 (task 1)
+[1] [19:24:38] Client 0 received result: 89 for subtask 0 from server 3 (task 1)
+[1] [19:24:39] Client 0 received result: 89 for subtask 0 from server 4 (task 1)
+[1] [19:24:39] Client 0 determined majority result: 89 for subtask 0 in task 1
+[1] [19:24:39] Honest servers for subtask 0 in task 1: 0 3 4 
+[1] [19:24:39] Malicious servers for subtask 0 in task 1: 
+[1] [19:24:39] Client 0 received result: 100 for subtask 1 from server 2 (task 1)
+[1] [19:24:39] Client 0 received result: 100 for subtask 1 from server 3 (task 1)
+[1] [19:24:40] Client 0 received result: 100 for subtask 1 from server 0 (task 1)
+[1] [19:24:40] Client 0 determined majority result: 100 for subtask 1 in task 1
+[1] [19:24:40] Honest servers for subtask 1 in task 1: 2 3 0 
+[1] [19:24:40] Malicious servers for subtask 1 in task 1: 
+[1] [19:24:40] Client 0 received result: 100 for subtask 2 from server 3 (task 1)
+[1] [19:24:40] Client 0 received result: 100 for subtask 2 from server 2 (task 1)
+[1] [19:24:40] Client 0 received result: 100 for subtask 2 from server 4 (task 1)
+[1] [19:24:40] Client 0 determined majority result: 100 for subtask 2 in task 1
+[1] [19:24:40] Honest servers for subtask 2 in task 1: 3 2 4 
+[1] [19:24:40] Malicious servers for subtask 2 in task 1: 
+[1] [19:24:40] Client 0 computed final result: 100 for task 1
+[1] [19:24:40] Client 0 server 0 tracking for task 1: Score=2, SubtaskCount=2, Rate=1.00
+[1] [19:24:40] Client 0 server 1 tracking for task 1: Score=0, SubtaskCount=0, Rate=N/A (no subtasks assigned)
+[1] [19:24:40] Client 0 server 2 tracking for task 1: Score=2, SubtaskCount=2, Rate=1.00
+[1] [19:24:40] Client 0 server 3 tracking for task 1: Score=3, SubtaskCount=3, Rate=1.00
+[1] [19:24:40] Client 0 server 4 tracking for task 1: Score=2, SubtaskCount=2, Rate=1.00
+[1] [19:24:40] Client 0 broadcasting scores for task 1: 0:0=2:2,1=0:0,2=2:2,3=3:3,4=2:2
+[1] [19:24:40] Client 0 completed task 1 and will start the next task soon
+[1] [19:24:41] Client 1 received result: 97 for subtask 0 from server 4 (task 1)
+[1] [19:24:41] Client 1 received result: 99 for subtask 0 from server 1 (task 1)
+[1] [19:24:41] Client 1 received result: 99 for subtask 0 from server 0 (task 1)
+[1] [19:24:41] Client 1 determined majority result: 99 for subtask 0 in task 1
+[1] [19:24:41] Honest servers for subtask 0 in task 1: 1 0 
+[1] [19:24:41] Malicious servers for subtask 0 in task 1: 4 
+[1] [19:24:41] Client 1 received result: 100 for subtask 1 from server 1 (task 1)
+[1] [19:24:42] Client 1 received result: 98 for subtask 1 from server 4 (task 1)
+[1] [19:24:42] Client 1 received result: 100 for subtask 1 from server 3 (task 1)
+[1] [19:24:42] Client 1 determined majority result: 100 for subtask 1 in task 1
+[1] [19:24:42] Honest servers for subtask 1 in task 1: 1 3 
+[1] [19:24:42] Malicious servers for subtask 1 in task 1: 4 
+[1] [19:24:42] Client 1 received result: 96 for subtask 2 from server 4 (task 1)
+[1] [19:24:42] Client 1 received result: 99 for subtask 2 from server 2 (task 1)
+[1] [19:24:42] Client 1 received result: 99 for subtask 2 from server 3 (task 1)
+[1] [19:24:42] Client 1 determined majority result: 99 for subtask 2 in task 1
+[1] [19:24:42] Honest servers for subtask 2 in task 1: 2 3 
+[1] [19:24:42] Malicious servers for subtask 2 in task 1: 4 
+[1] [19:24:42] Client 1 computed final result: 100 for task 1
+[1] [19:24:42] Client 1 server 0 tracking for task 1: Score=1, SubtaskCount=1, Rate=1.00
+[1] [19:24:42] Client 1 server 1 tracking for task 1: Score=2, SubtaskCount=2, Rate=1.00
+[1] [19:24:42] Client 1 server 2 tracking for task 1: Score=1, SubtaskCount=1, Rate=1.00
+[1] [19:24:42] Client 1 server 3 tracking for task 1: Score=2, SubtaskCount=2, Rate=1.00
+[1] [19:24:42] Client 1 server 4 tracking for task 1: Score=0, SubtaskCount=3, Rate=0.00
+[1] [19:24:42] Client 1 broadcasting scores for task 1: 1:0=1:1,1=2:2,2=1:1,3=2:2,4=0:3
+[1] [19:24:42] Client 1 completed task 1 and will start the next task soon
+[1] [19:24:43] Client 2 received result: 96 for subtask 0 from server 3 (task 1)
+[1] [19:24:43] Client 2 received result: 94 for subtask 0 from server 1 (task 1)
+[1] [19:24:43] Client 2 received result: 96 for subtask 0 from server 2 (task 1)
+[1] [19:24:43] Client 2 determined majority result: 96 for subtask 0 in task 1
+[1] [19:24:43] Honest servers for subtask 0 in task 1: 3 2 
+[1] [19:24:43] Malicious servers for subtask 0 in task 1: 1 
+[1] [19:24:43] Client 2 received result: 86 for subtask 1 from server 1 (task 1)
+[1] [19:24:43] Client 2 received result: 91 for subtask 1 from server 2 (task 1)
+[1] [19:24:43] Client 2 received result: 91 for subtask 1 from server 4 (task 1)
+[1] [19:24:43] Client 2 determined majority result: 91 for subtask 1 in task 1
+[1] [19:24:43] Honest servers for subtask 1 in task 1: 2 4 
+[1] [19:24:43] Malicious servers for subtask 1 in task 1: 1 
+[1] [19:24:43] Client 2 received result: 95 for subtask 2 from server 1 (task 1)
+[1] [19:24:44] Client 2 received result: 98 for subtask 2 from server 3 (task 1)
+[1] [19:24:44] Client 2 received result: 98 for subtask 2 from server 0 (task 1)
+[1] [19:24:44] Client 2 determined majority result: 98 for subtask 2 in task 1
+[1] [19:24:44] Honest servers for subtask 2 in task 1: 3 0 
+[1] [19:24:44] Malicious servers for subtask 2 in task 1: 1 
+[1] [19:24:44] Client 2 computed final result: 98 for task 1
+[1] [19:24:44] Client 2 server 0 tracking for task 1: Score=1, SubtaskCount=1, Rate=1.00
+[1] [19:24:44] Client 2 server 1 tracking for task 1: Score=0, SubtaskCount=3, Rate=0.00
+[1] [19:24:44] Client 2 server 2 tracking for task 1: Score=2, SubtaskCount=2, Rate=1.00
+[1] [19:24:44] Client 2 server 3 tracking for task 1: Score=2, SubtaskCount=2, Rate=1.00
+[1] [19:24:44] Client 2 server 4 tracking for task 1: Score=1, SubtaskCount=1, Rate=1.00
+[1] [19:24:44] Client 2 broadcasting scores for task 1: 2:0=1:1,1=0:3,2=2:2,3=2:2,4=1:1
+[1] [19:24:44] Client 2 completed task 1 and will start the next task soon
+[1] [19:24:44] Client 1 received gossip for task 1: 1.000000:0:0=2:2,1=0:0,2=2:2,3=3:3,4=2:2 from gate 0
+[1] [19:24:44] Client 1 updated average scores after task 1: 0:1.00 (Score=2, Tasks=2) 1:0.00 (Score=0, Tasks=0) 2:1.00 (Score=2, Tasks=2) 3:1.00 (Score=3, Tasks=3) 4:1.00 (Score=2, Tasks=2) 
+[1] [19:24:44] Client 2 received gossip for task 1: 1.000000:0:0=2:2,1=0:0,2=2:2,3=3:3,4=2:2 from gate 0
+[1] [19:24:44] Client 2 updated average scores after task 1: 0:1.00 (Score=2, Tasks=2) 1:0.00 (Score=0, Tasks=0) 2:1.00 (Score=2, Tasks=2) 3:1.00 (Score=3, Tasks=3) 4:1.00 (Score=2, Tasks=2) 
+[1] [19:24:44] Client 0 received gossip for task 1: 1.000000:1:0=1:1,1=2:2,2=1:1,3=2:2,4=0:3 from gate 0
+[1] [19:24:44] Client 0 updated average scores after task 1: 0:1.00 (Score=1, Tasks=1) 1:1.00 (Score=2, Tasks=2) 2:1.00 (Score=1, Tasks=1) 3:1.00 (Score=2, Tasks=2) 4:0.00 (Score=0, Tasks=3) 
+[1] [19:24:44] Client 2 received gossip for task 1: 1.000000:1:0=1:1,1=2:2,2=1:1,3=2:2,4=0:3 from gate 1
+[1] [19:24:44] Client 2 updated average scores after task 1: 0:1.00 (Score=3, Tasks=3) 1:1.00 (Score=2, Tasks=2) 2:1.00 (Score=3, Tasks=3) 3:1.00 (Score=5, Tasks=5) 4:0.40 (Score=2, Tasks=5) 
+[1] [19:24:44] Client 0 received gossip for task 1: 1.000000:2:0=1:1,1=0:3,2=2:2,3=2:2,4=1:1 from gate 1
+[1] [19:24:44] Client 0 updated average scores after task 1: 0:1.00 (Score=2, Tasks=2) 1:0.40 (Score=2, Tasks=5) 2:1.00 (Score=3, Tasks=3) 3:1.00 (Score=4, Tasks=4) 4:0.25 (Score=1, Tasks=4) 
+[1] [19:24:44] Client 1 received gossip for task 1: 1.000000:2:0=1:1,1=0:3,2=2:2,3=2:2,4=1:1 from gate 1
+[1] [19:24:44] Client 1 updated average scores after task 1: 0:1.00 (Score=3, Tasks=3) 1:0.00 (Score=0, Tasks=3) 2:1.00 (Score=4, Tasks=4) 3:1.00 (Score=5, Tasks=5) 4:1.00 (Score=3, Tasks=3) 
+[3] [19:24:45] Client 0 generated array: 70 13 45 67 92 86 40 40 76 23 ... (total 99 elements)
+[3] [19:24:45] Client 0 subtask 0: 70 13 45 67 92 ... (total 33 elements)
+[3] [19:24:45] Client 0 subtask 1: 64 17 37 95 25 ... (total 33 elements)
+[3] [19:24:45] Client 0 subtask 2: 83 69 23 100 84 ... (total 33 elements)
+[3] [19:24:45] Client 0 starting task 2 with array size 99
+[3] [19:24:45] Client 0 selecting servers based on scores for task 2
+[3] [19:24:45] Client 0 sent subtask 0 to servers: 3 2 0 
+[3] [19:24:45] Client 0 selecting servers based on scores for task 2
+[3] [19:24:45] Client 0 sent subtask 1 to servers: 3 2 0 
+[3] [19:24:45] Client 0 selecting servers based on scores for task 2
+[3] [19:24:45] Client 0 sent subtask 2 to servers: 3 2 0 
+[3] [19:24:45] Client 1 generated array: 44 56 19 46 88 66 71 54 49 95 ... (total 99 elements)
+[3] [19:24:45] Client 1 subtask 0: 44 56 19 46 88 ... (total 33 elements)
+[3] [19:24:45] Client 1 subtask 1: 72 85 90 67 61 ... (total 33 elements)
+[3] [19:24:45] Client 1 subtask 2: 4 43 66 21 37 ... (total 33 elements)
+[3] [19:24:45] Client 1 starting task 2 with array size 99
+[3] [19:24:45] Client 1 selecting servers based on scores for task 2
+[3] [19:24:45] Client 1 sent subtask 0 to servers: 4 3 2 
+[3] [19:24:45] Client 1 selecting servers based on scores for task 2
+[3] [19:24:45] Client 1 sent subtask 1 to servers: 4 3 2 
+[3] [19:24:45] Client 1 selecting servers based on scores for task 2
+[3] [19:24:45] Client 1 sent subtask 2 to servers: 4 3 2 
+[3] [19:24:46] Client 2 generated array: 25 59 37 100 70 7 4 99 41 61 ... (total 99 elements)
+[3] [19:24:46] Client 2 subtask 0: 25 59 37 100 70 ... (total 33 elements)
+[3] [19:24:46] Client 2 subtask 1: 1 6 92 31 74 ... (total 33 elements)
+[3] [19:24:46] Client 2 subtask 2: 94 92 18 36 67 ... (total 33 elements)
+[3] [19:24:46] Client 2 starting task 2 with array size 99
+[3] [19:24:46] Client 2 selecting servers based on scores for task 2
+[3] [19:24:46] Client 2 sent subtask 0 to servers: 3 2 1 
+[3] [19:24:46] Client 2 selecting servers based on scores for task 2
+[3] [19:24:46] Client 2 sent subtask 1 to servers: 3 2 1 
+[3] [19:24:46] Client 2 selecting servers based on scores for task 2
+[3] [19:24:46] Client 2 sent subtask 2 to servers: 3 2 1 
+TaskMessage: Server: 3 on gate: 0 taskId: 2 subtaskId: 0 data: 70 13 45 67 92 86 40 40 76 23 31 18 71 72 19 93 44 84 50 42 94 47 22 74 90 97 92 74 29 82 59 1 87 
+Result Server:3 taskId:2 subtaskId:0 on gate:0 result:89 isHonest:false
+TaskMessage: Server: 2 on gate: 0 taskId: 2 subtaskId: 0 data: 70 13 45 67 92 86 40 40 76 23 31 18 71 72 19 93 44 84 50 42 94 47 22 74 90 97 92 74 29 82 59 1 87 
+Result Server:2 taskId:2 subtaskId:0 on gate:0 result:97 isHonest:true
+TaskMessage: Server: 0 on gate: 0 taskId: 2 subtaskId: 0 data: 70 13 45 67 92 86 40 40 76 23 31 18 71 72 19 93 44 84 50 42 94 47 22 74 90 97 92 74 29 82 59 1 87 
+Result Server:0 taskId:2 subtaskId:0 on gate:0 result:97 isHonest:true
+TaskMessage: Server: 3 on gate: 0 taskId: 2 subtaskId: 1 data: 64 17 37 95 25 64 68 52 9 57 92 94 88 33 20 73 72 88 14 59 82 56 65 76 93 37 26 33 43 15 87 29 21 
+Result Server:3 taskId:2 subtaskId:1 on gate:0 result:88 isHonest:false
+TaskMessage: Server: 2 on gate: 0 taskId: 2 subtaskId: 1 data: 64 17 37 95 25 64 68 52 9 57 92 94 88 33 20 73 72 88 14 59 82 56 65 76 93 37 26 33 43 15 87 29 21 
+Result Server:2 taskId:2 subtaskId:1 on gate:0 result:95 isHonest:true
+TaskMessage: Server: 0 on gate: 0 taskId: 2 subtaskId: 1 data: 64 17 37 95 25 64 68 52 9 57 92 94 88 33 20 73 72 88 14 59 82 56 65 76 93 37 26 33 43 15 87 29 21 
+Result Server:0 taskId:2 subtaskId:1 on gate:0 result:95 isHonest:true
+TaskMessage: Server: 3 on gate: 0 taskId: 2 subtaskId: 2 data: 83 69 23 100 84 8 73 62 14 6 1 9 80 80 54 12 5 40 93 46 27 75 53 50 92 52 100 19 35 52 31 54 59 
+Result Server:3 taskId:2 subtaskId:2 on gate:0 result:94 isHonest:false
+TaskMessage: Server: 2 on gate: 0 taskId: 2 subtaskId: 2 data: 83 69 23 100 84 8 73 62 14 6 1 9 80 80 54 12 5 40 93 46 27 75 53 50 92 52 100 19 35 52 31 54 59 
+Result Server:2 taskId:2 subtaskId:2 on gate:0 result:100 isHonest:true
+TaskMessage: Server: 0 on gate: 0 taskId: 2 subtaskId: 2 data: 83 69 23 100 84 8 73 62 14 6 1 9 80 80 54 12 5 40 93 46 27 75 53 50 92 52 100 19 35 52 31 54 59 
+Result Server:0 taskId:2 subtaskId:2 on gate:0 result:100 isHonest:true
+TaskMessage: Server: 4 on gate: 1 taskId: 2 subtaskId: 0 data: 44 56 19 46 88 66 71 54 49 95 60 81 27 36 59 50 74 45 14 71 39 40 9 14 8 81 23 80 90 9 100 7 82 
+Result Server:4 taskId:2 subtaskId:0 on gate:1 result:100 isHonest:true
+TaskMessage: Server: 3 on gate: 1 taskId: 2 subtaskId: 0 data: 44 56 19 46 88 66 71 54 49 95 60 81 27 36 59 50 74 45 14 71 39 40 9 14 8 81 23 80 90 9 100 7 82 
+Result Server:3 taskId:2 subtaskId:0 on gate:1 result:100 isHonest:true
+TaskMessage: Server: 2 on gate: 1 taskId: 2 subtaskId: 0 data: 44 56 19 46 88 66 71 54 49 95 60 81 27 36 59 50 74 45 14 71 39 40 9 14 8 81 23 80 90 9 100 7 82 
+Result Server:2 taskId:2 subtaskId:0 on gate:1 result:100 isHonest:true
+TaskMessage: Server: 4 on gate: 1 taskId: 2 subtaskId: 1 data: 72 85 90 67 61 17 57 24 25 5 50 88 31 55 26 21 98 58 24 28 30 34 54 52 87 8 10 55 1 84 37 82 21 
+Result Server:4 taskId:2 subtaskId:1 on gate:1 result:98 isHonest:true
+TaskMessage: Server: 3 on gate: 1 taskId: 2 subtaskId: 1 data: 72 85 90 67 61 17 57 24 25 5 50 88 31 55 26 21 98 58 24 28 30 34 54 52 87 8 10 55 1 84 37 82 21 
+Result Server:3 taskId:2 subtaskId:1 on gate:1 result:98 isHonest:true
+TaskMessage: Server: 2 on gate: 1 taskId: 2 subtaskId: 1 data: 72 85 90 67 61 17 57 24 25 5 50 88 31 55 26 21 98 58 24 28 30 34 54 52 87 8 10 55 1 84 37 82 21 
+Result Server:2 taskId:2 subtaskId:1 on gate:1 result:98 isHonest:true
+TaskMessage: Server: 4 on gate: 1 taskId: 2 subtaskId: 2 data: 4 43 66 21 37 69 81 48 11 95 92 44 64 32 21 71 10 61 92 36 84 77 19 75 99 98 44 4 13 59 2 1 40 
+Result Server:4 taskId:2 subtaskId:2 on gate:1 result:99 isHonest:true
+TaskMessage: Server: 3 on gate: 1 taskId: 2 subtaskId: 2 data: 4 43 66 21 37 69 81 48 11 95 92 44 64 32 21 71 10 61 92 36 84 77 19 75 99 98 44 4 13 59 2 1 40 
+Result Server:3 taskId:2 subtaskId:2 on gate:1 result:99 isHonest:true
+TaskMessage: Server: 2 on gate: 1 taskId: 2 subtaskId: 2 data: 4 43 66 21 37 69 81 48 11 95 92 44 64 32 21 71 10 61 92 36 84 77 19 75 99 98 44 4 13 59 2 1 40 
+Result Server:2 taskId:2 subtaskId:2 on gate:1 result:99 isHonest:true
+TaskMessage: Server: 3 on gate: 2 taskId: 2 subtaskId: 0 data: 25 59 37 100 70 7 4 99 41 61 34 29 69 27 97 52 74 54 70 34 8 95 73 85 8 68 86 92 68 85 72 84 96 
+Result Server:3 taskId:2 subtaskId:0 on gate:2 result:100 isHonest:true
+TaskMessage: Server: 2 on gate: 2 taskId: 2 subtaskId: 0 data: 25 59 37 100 70 7 4 99 41 61 34 29 69 27 97 52 74 54 70 34 8 95 73 85 8 68 86 92 68 85 72 84 96 
+Result Server:2 taskId:2 subtaskId:0 on gate:2 result:100 isHonest:true
+TaskMessage: Server: 1 on gate: 2 taskId: 2 subtaskId: 0 data: 25 59 37 100 70 7 4 99 41 61 34 29 69 27 97 52 74 54 70 34 8 95 73 85 8 68 86 92 68 85 72 84 96 
+Result Server:1 taskId:2 subtaskId:0 on gate:2 result:100 isHonest:true
+TaskMessage: Server: 3 on gate: 2 taskId: 2 subtaskId: 1 data: 1 6 92 31 74 84 8 22 93 9 44 47 1 52 39 90 75 99 88 97 84 27 79 33 71 98 45 60 58 51 46 5 58 
+Result Server:3 taskId:2 subtaskId:1 on gate:2 result:99 isHonest:true
+TaskMessage: Server: 2 on gate: 2 taskId: 2 subtaskId: 1 data: 1 6 92 31 74 84 8 22 93 9 44 47 1 52 39 90 75 99 88 97 84 27 79 33 71 98 45 60 58 51 46 5 58 
+Result Server:2 taskId:2 subtaskId:1 on gate:2 result:99 isHonest:true
+TaskMessage: Server: 1 on gate: 2 taskId: 2 subtaskId: 1 data: 1 6 92 31 74 84 8 22 93 9 44 47 1 52 39 90 75 99 88 97 84 27 79 33 71 98 45 60 58 51 46 5 58 
+Result Server:1 taskId:2 subtaskId:1 on gate:2 result:99 isHonest:true
+TaskMessage: Server: 3 on gate: 2 taskId: 2 subtaskId: 2 data: 94 92 18 36 67 21 46 58 80 37 63 5 78 31 88 99 36 74 91 56 27 23 77 80 99 91 52 47 81 62 61 48 1 
+Result Server:3 taskId:2 subtaskId:2 on gate:2 result:99 isHonest:true
+TaskMessage: Server: 2 on gate: 2 taskId: 2 subtaskId: 2 data: 94 92 18 36 67 21 46 58 80 37 63 5 78 31 88 99 36 74 91 56 27 23 77 80 99 91 52 47 81 62 61 48 1 
+Result Server:2 taskId:2 subtaskId:2 on gate:2 result:99 isHonest:true
+TaskMessage: Server: 1 on gate: 2 taskId: 2 subtaskId: 2 data: 94 92 18 36 67 21 46 58 80 37 63 5 78 31 88 99 36 74 91 56 27 23 77 80 99 91 52 47 81 62 61 48 1 
+Result Server:1 taskId:2 subtaskId:2 on gate:2 result:99 isHonest:true
+[3] [19:24:56] Client 0 received result: 89 for subtask 0 from server 3 (task 2)
+[3] [19:24:56] Client 0 received result: 97 for subtask 0 from server 2 (task 2)
+[3] [19:24:57] Client 0 received result: 97 for subtask 0 from server 0 (task 2)
+[3] [19:24:57] Client 0 determined majority result: 97 for subtask 0 in task 2
+[3] [19:24:57] Honest servers for subtask 0 in task 2: 2 0 
+[3] [19:24:57] Malicious servers for subtask 0 in task 2: 3 
+[3] [19:24:57] Client 0 received result: 88 for subtask 1 from server 3 (task 2)
+[3] [19:24:58] Client 0 received result: 95 for subtask 1 from server 2 (task 2)
+[3] [19:24:58] Client 0 received result: 95 for subtask 1 from server 0 (task 2)
+[3] [19:24:58] Client 0 determined majority result: 95 for subtask 1 in task 2
+[3] [19:24:58] Honest servers for subtask 1 in task 2: 2 0 
+[3] [19:24:58] Malicious servers for subtask 1 in task 2: 3 
+[3] [19:24:58] Client 0 received result: 94 for subtask 2 from server 3 (task 2)
+[3] [19:24:58] Client 0 received result: 100 for subtask 2 from server 2 (task 2)
+[3] [19:24:59] Client 0 received result: 100 for subtask 2 from server 0 (task 2)
+[3] [19:24:59] Client 0 determined majority result: 100 for subtask 2 in task 2
+[3] [19:24:59] Honest servers for subtask 2 in task 2: 2 0 
+[3] [19:24:59] Malicious servers for subtask 2 in task 2: 3 
+[3] [19:24:59] Client 0 computed final result: 100 for task 2
+[3] [19:24:59] Client 0 server 0 tracking for task 2: Score=3, SubtaskCount=3, Rate=1.00
+[3] [19:24:59] Client 0 server 1 tracking for task 2: Score=0, SubtaskCount=0, Rate=N/A (no subtasks assigned)
+[3] [19:24:59] Client 0 server 2 tracking for task 2: Score=3, SubtaskCount=3, Rate=1.00
+[3] [19:24:59] Client 0 server 3 tracking for task 2: Score=0, SubtaskCount=3, Rate=0.00
+[3] [19:24:59] Client 0 server 4 tracking for task 2: Score=0, SubtaskCount=0, Rate=N/A (no subtasks assigned)
+[3] [19:24:59] Client 0 broadcasting scores for task 2: 0:0=3:3,1=0:0,2=3:3,3=0:3,4=0:0
+[3] [19:24:59] Client 0 has completed all tasks
+[3] [19:24:59] Client 1 received result: 100 for subtask 0 from server 4 (task 2)
+[3] [19:24:59] Client 1 received result: 100 for subtask 0 from server 3 (task 2)
+[3] [19:25:00] Client 1 received result: 100 for subtask 0 from server 2 (task 2)
+[3] [19:25:00] Client 1 determined majority result: 100 for subtask 0 in task 2
+[3] [19:25:00] Honest servers for subtask 0 in task 2: 4 3 2 
+[3] [19:25:00] Malicious servers for subtask 0 in task 2: 
+[3] [19:25:00] Client 1 received result: 98 for subtask 1 from server 4 (task 2)
+[3] [19:25:00] Client 1 received result: 98 for subtask 1 from server 3 (task 2)
+[3] [19:25:00] Client 1 received result: 98 for subtask 1 from server 2 (task 2)
+[3] [19:25:00] Client 1 determined majority result: 98 for subtask 1 in task 2
+[3] [19:25:00] Honest servers for subtask 1 in task 2: 4 3 2 
+[3] [19:25:00] Malicious servers for subtask 1 in task 2: 
+[3] [19:25:01] Client 1 received result: 99 for subtask 2 from server 4 (task 2)
+[3] [19:25:01] Client 1 received result: 99 for subtask 2 from server 3 (task 2)
+[3] [19:25:01] Client 1 received result: 99 for subtask 2 from server 2 (task 2)
+[3] [19:25:01] Client 1 determined majority result: 99 for subtask 2 in task 2
+[3] [19:25:01] Honest servers for subtask 2 in task 2: 4 3 2 
+[3] [19:25:01] Malicious servers for subtask 2 in task 2: 
+[3] [19:25:01] Client 1 computed final result: 100 for task 2
+[3] [19:25:01] Client 1 server 0 tracking for task 2: Score=0, SubtaskCount=0, Rate=N/A (no subtasks assigned)
+[3] [19:25:01] Client 1 server 1 tracking for task 2: Score=0, SubtaskCount=0, Rate=N/A (no subtasks assigned)
+[3] [19:25:01] Client 1 server 2 tracking for task 2: Score=3, SubtaskCount=3, Rate=1.00
+[3] [19:25:01] Client 1 server 3 tracking for task 2: Score=3, SubtaskCount=3, Rate=1.00
+[3] [19:25:01] Client 1 server 4 tracking for task 2: Score=3, SubtaskCount=3, Rate=1.00
+[3] [19:25:01] Client 1 broadcasting scores for task 2: 1:0=0:0,1=0:0,2=3:3,3=3:3,4=3:3
+[3] [19:25:01] Client 1 has completed all tasks
+[3] [19:25:01] Client 2 received result: 100 for subtask 0 from server 3 (task 2)
+[3] [19:25:01] Client 2 received result: 100 for subtask 0 from server 2 (task 2)
+[3] [19:25:02] Client 2 received result: 100 for subtask 0 from server 1 (task 2)
+[3] [19:25:02] Client 2 determined majority result: 100 for subtask 0 in task 2
+[3] [19:25:02] Honest servers for subtask 0 in task 2: 3 2 1 
+[3] [19:25:02] Malicious servers for subtask 0 in task 2: 
+[3] [19:25:02] Client 2 received result: 99 for subtask 1 from server 3 (task 2)
+[3] [19:25:02] Client 2 received result: 99 for subtask 1 from server 2 (task 2)
+[3] [19:25:02] Client 2 received result: 99 for subtask 1 from server 1 (task 2)
+[3] [19:25:02] Client 2 determined majority result: 99 for subtask 1 in task 2
+[3] [19:25:02] Honest servers for subtask 1 in task 2: 3 2 1 
+[3] [19:25:02] Malicious servers for subtask 1 in task 2: 
+[3] [19:25:02] Client 2 received result: 99 for subtask 2 from server 3 (task 2)
+[3] [19:25:02] Client 2 received result: 99 for subtask 2 from server 2 (task 2)
+[3] [19:25:02] Client 2 received result: 99 for subtask 2 from server 1 (task 2)
+[3] [19:25:02] Client 2 determined majority result: 99 for subtask 2 in task 2
+[3] [19:25:02] Honest servers for subtask 2 in task 2: 3 2 1 
+[3] [19:25:02] Malicious servers for subtask 2 in task 2: 
+[3] [19:25:02] Client 2 computed final result: 100 for task 2
+[3] [19:25:02] Client 2 server 0 tracking for task 2: Score=0, SubtaskCount=0, Rate=N/A (no subtasks assigned)
+[3] [19:25:02] Client 2 server 1 tracking for task 2: Score=3, SubtaskCount=3, Rate=1.00
+[3] [19:25:02] Client 2 server 2 tracking for task 2: Score=3, SubtaskCount=3, Rate=1.00
+[3] [19:25:02] Client 2 server 3 tracking for task 2: Score=3, SubtaskCount=3, Rate=1.00
+[3] [19:25:02] Client 2 server 4 tracking for task 2: Score=0, SubtaskCount=0, Rate=N/A (no subtasks assigned)
+[3] [19:25:02] Client 2 broadcasting scores for task 2: 2:0=0:0,1=3:3,2=3:3,3=3:3,4=0:0
+[3] [19:25:02] Client 2 has completed all tasks
+[3] [19:25:03] Client 1 received gossip for task 2: 3.000000:0:0=3:3,1=0:0,2=3:3,3=0:3,4=0:0 from gate 0
+[3] [19:25:03] Client 1 updated average scores after task 2: 0:1.00 (Score=6, Tasks=6) 1:0.00 (Score=0, Tasks=3) 2:1.00 (Score=7, Tasks=7) 3:0.62 (Score=5, Tasks=8) 4:1.00 (Score=3, Tasks=3) 
+[3] [19:25:03] Client 2 received gossip for task 2: 3.000000:0:0=3:3,1=0:0,2=3:3,3=0:3,4=0:0 from gate 0
+[3] [19:25:03] Client 2 updated average scores after task 2: 0:1.00 (Score=6, Tasks=6) 1:1.00 (Score=2, Tasks=2) 2:1.00 (Score=6, Tasks=6) 3:0.62 (Score=5, Tasks=8) 4:0.40 (Score=2, Tasks=5) 
+[3] [19:25:03] Client 0 received gossip for task 2: 3.000000:1:0=0:0,1=0:0,2=3:3,3=3:3,4=3:3 from gate 0
+[3] [19:25:03] Client 0 updated average scores after task 2: 0:1.00 (Score=2, Tasks=2) 1:0.40 (Score=2, Tasks=5) 2:1.00 (Score=6, Tasks=6) 3:1.00 (Score=7, Tasks=7) 4:0.57 (Score=4, Tasks=7) 
+[3] [19:25:03] Client 2 received gossip for task 2: 3.000000:1:0=0:0,1=0:0,2=3:3,3=3:3,4=3:3 from gate 1
+[3] [19:25:03] Client 2 updated average scores after task 2: 0:1.00 (Score=6, Tasks=6) 1:1.00 (Score=2, Tasks=2) 2:1.00 (Score=9, Tasks=9) 3:0.73 (Score=8, Tasks=11) 4:0.62 (Score=5, Tasks=8) 
+[3] [19:25:03] Client 0 received gossip for task 2: 3.000000:2:0=0:0,1=3:3,2=3:3,3=3:3,4=0:0 from gate 1
+[3] [19:25:03] Client 0 updated average scores after task 2: 0:1.00 (Score=2, Tasks=2) 1:0.62 (Score=5, Tasks=8) 2:1.00 (Score=9, Tasks=9) 3:1.00 (Score=10, Tasks=10) 4:0.57 (Score=4, Tasks=7) 
+[3] [19:25:03] Client 1 received gossip for task 2: 3.000000:2:0=0:0,1=3:3,2=3:3,3=3:3,4=0:0 from gate 1
+[3] [19:25:03] Client 1 updated average scores after task 2: 0:1.00 (Score=6, Tasks=6) 1:0.50 (Score=3, Tasks=6) 2:1.00 (Score=10, Tasks=10) 3:0.73 (Score=8, Tasks=11) 4:1.00 (Score=3, Tasks=3) 

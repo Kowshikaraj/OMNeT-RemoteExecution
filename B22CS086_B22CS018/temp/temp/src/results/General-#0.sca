@@ -1,0 +1,44 @@
+version 3
+run General-0-20250329-19:24:24-10676
+attr configname General
+attr datetime 20250329-19:24:24
+attr datetimef 20250329-192424
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network RemoteExecNetwork
+attr processid 10676
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network RemoteExecNetwork
+
+par RemoteExecNetwork.client[0] typename "\"temp.Client\""
+par RemoteExecNetwork.client[0] arraySize 99
+par RemoteExecNetwork.client[0] numSubtasks 3
+par RemoteExecNetwork.client[0] numServers 5
+par RemoteExecNetwork.client[0] numClients 3
+par RemoteExecNetwork.client[1] typename "\"temp.Client\""
+par RemoteExecNetwork.client[1] arraySize 99
+par RemoteExecNetwork.client[1] numSubtasks 3
+par RemoteExecNetwork.client[1] numServers 5
+par RemoteExecNetwork.client[1] numClients 3
+par RemoteExecNetwork.client[2] typename "\"temp.Client\""
+par RemoteExecNetwork.client[2] arraySize 99
+par RemoteExecNetwork.client[2] numSubtasks 3
+par RemoteExecNetwork.client[2] numServers 5
+par RemoteExecNetwork.client[2] numClients 3
+par RemoteExecNetwork.server[0] typename "\"temp.Server\""
+par RemoteExecNetwork.server[1] typename "\"temp.Server\""
+par RemoteExecNetwork.server[2] typename "\"temp.Server\""
+par RemoteExecNetwork.server[3] typename "\"temp.Server\""
+par RemoteExecNetwork.server[4] typename "\"temp.Server\""
+par RemoteExecNetwork typename "\"temp.RemoteExecNetwork\""
+par RemoteExecNetwork numClients 3
+par RemoteExecNetwork numServers 5
+
